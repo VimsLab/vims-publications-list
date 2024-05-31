@@ -1,6 +1,6 @@
 export default [
   {
-    category: "Conference Papers",
+    "category": "Conference Papers",
     year: "2024",
     text: "Bhattarai A, Jin J and Kambhamettu C. Detachable Encoder Transformer for SCR Detection. IOVS 2024:ARVO E-Abstract"
   },
