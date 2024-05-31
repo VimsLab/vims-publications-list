@@ -2,6 +2,11 @@ export default [
   {
     "category": "Conference Papers",
     "year": "2024",
+    "text": "Ashuta Bhattarai, Jing Jin, Chandra Kambhamettu. Analyzing Adjacent B-Scans to Localize Sickle Cell Retinopathy In OCTs. MICCAI 2024."
+  },
+  {
+    "category": "Conference Papers",
+    "year": "2024",
     "text": "Bhattarai A, Jin J and Kambhamettu C. Detachable Encoder Transformer for SCR Detection. IOVS 2024:ARVO E-Abstract"
   },
   {
