@@ -2,6 +2,11 @@ export default [
   {
     "category": "Conference Papers",
     "year": "2024",
+    "text": "Seyedalireza Khoshsirat and Chandra Kambhamettu. Embedding Attention Blocks for Answer Grounding. ICIP 2024."
+  },
+  {
+    "category": "Conference Papers",
+    "year": "2024",
     "text": "Ashuta Bhattarai, Jing Jin, Chandra Kambhamettu. Analyzing Adjacent B-Scans to Localize Sickle Cell Retinopathy In OCTs. MICCAI 2024."
   },
   {
