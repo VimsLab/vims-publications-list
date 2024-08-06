@@ -2,6 +2,11 @@ export default [
   {
     "category": "Conference Papers",
     "year": "2024",
+    "text": "Rohit Venkata Sai Dulam and Chandra Kambhamettu. SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection. ICPR 2024."
+  },
+  {
+    "category": "Conference Papers",
+    "year": "2024",
     "text": "Seyedalireza Khoshsirat and Chandra Kambhamettu. Embedding Attention Blocks for Answer Grounding. ICIP 2024."
   },
   {
