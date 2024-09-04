@@ -39,11 +39,6 @@ export default [
   {
     "category": "Journal Papers",
     "year": "2023",
-    "text": "Azubuike Okorie, Chandra Kambhamettu, Sokratis Makrogiannis. \"Unsupervised learning of probabilistic subspaces for multi-spectral and multi-temporal image-based disaster mapping. Mach. Vis. Appl. 34(6): 103\", Machine Vision and Applications, 2023. ",
-  },
-  {
-    "category": "Journal Papers",
-    "year": "2023",
     "text": "Seyedalireza Khoshsirat and Chandra Kambhamettu. \"A transformer-based neural ODE for dense prediction\", Machine Vision and Applications, 2023. ",
     "link_text": "https://link.springer.com/article/10.1007/s00138-023-01465-4",
     "link_url": "Link to the paper."
