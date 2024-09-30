@@ -2,6 +2,11 @@ export default [
   {
     "category": "Conference Papers",
     "year": "2024",
+    "text": "Daniela Martin, Jennifer Hutchings, Chandra Kambhamettu. Motion Estimation for Arctic Sea Ice Using Computer Vision and Deep Learning Techniques. IICWG 2024. Poster presentation"
+  },
+  {
+    "category": "Conference Papers",
+    "year": "2024",
     "text": "Rohit Venkata Sai Dulam and Chandra Kambhamettu. SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection. ICPR 2024."
   },
   {
