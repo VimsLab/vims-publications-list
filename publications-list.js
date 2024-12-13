@@ -2,6 +2,11 @@ export default [
   {
     "category": "Conference Papers",
     "year": "2024",
+    "text": "Daniela Martin, Jennifer Hutchings, Chandra Kambhamettu. Pixel-Level Motion Estimation of Arctic Sea Ice Using Vision Transformer, Deep Learning Techniques, and SAR Imagery. AGU 2024:Abstract and oral talk"
+  },
+  {
+    "category": "Conference Papers",
+    "year": "2024",
     "text": "Daniela Martin, Jennifer Hutchings, Chandra Kambhamettu. Motion Estimation for Arctic Sea Ice Using Computer Vision and Deep Learning Techniques. IICWG 2024. Poster presentation"
   },
   {
