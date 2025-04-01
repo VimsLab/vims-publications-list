@@ -1,6 +1,11 @@
 export default [
   {
     "category": "Conference Papers",
+    "year": "2025",
+    "text": "Rohit Venkata Sai Dulam and Chandra Kambhamettu, \"Salient Object Detection with Dynamic Convolutions\", Workshop on Visual Odometry and Computer Vision (CVPRW-VOCVALC), 2025."
+  },
+  {
+    "category": "Conference Papers",
     "year": "2024",
     "text": "Daniela Martin, Jennifer Hutchings, Chandra Kambhamettu. Pixel-Level Motion Estimation of Arctic Sea Ice Using Vision Transformer, Deep Learning Techniques, and SAR Imagery. AGU 2024:Abstract and oral talk"
   },
